@@ -1,5 +1,5 @@
 <?php
-function divide($a, $b) {
-    echo "Результат деления: " . ($a / $b) . "\n";
+function power($a, $b) {
+    echo "Результат возведения в степень: " . pow($a, $b) . "\n";
 }
 ?>
