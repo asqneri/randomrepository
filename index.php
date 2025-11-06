@@ -1,5 +1,5 @@
 <?php
-function add($a, $b) {
-    echo "Результат сложения: " . ($a + $b) . "\n";
+function subtract($a, $b) {
+    echo "Результат вычитания: " . ($a - $b) . "\n";
 }
 ?>
